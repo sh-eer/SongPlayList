@@ -1,5 +1,5 @@
 # SongPlaylist
-In the process of learning LinkedLists in Java, I created a songs play list.
+In the process of learning LinkedLists in Java, I created a songs playlist.
 
 
 The specification of the tutorial were as following
